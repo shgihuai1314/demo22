@@ -1,0 +1,9 @@
+.checkbox-primary > label {
+    margin: 0;
+}
+.warpped {
+    line-break: anywhere;
+}
+.vtop {
+    vertical-align: top!important;
+}

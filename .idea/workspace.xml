@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="668b133c-a50a-4764-b9fc-4be1ce19a218" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9009" />
+  <component name="PhpServers">
+    <servers>
+      <server host="http://kycd.com/index.php" id="4999d9e7-6716-4bcb-816a-5c80080bccf1" name="Unnamed" use_path_mappings="true" />
+      <server host="kycd.com" id="18e27457-2d61-4a85-b13c-e480db1a3082" name="kycd.com" />
+      <server host="192.168.5.145" id="d23189d1-737b-4607-bd82-33926cc4d1ed" name="192.168.5.145" port="8800" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/www" remote-root="D:/phpStudy/PHPTutorial/WWW/CRMEB/crmeb/public" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="http://kycd.com/index.php" port="9009" />
+  <component name="ProjectId" id="1iwVrWPLXq8T8CpfWPSRsTRB3m4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.php.debug.xdebug.proxy" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="测试" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Unnamed">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="668b133c-a50a-4764-b9fc-4be1ce19a218" name="Default Changelist" comment="" />
+      <created>1602818839485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602818839485</updated>
+      <workItem from="1602818840516" duration="12412000" />
+      <workItem from="1603069289465" duration="16314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="186" key="#Servers" timestamp="1603088223462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="186" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1603088223462" />
+    <state x="748" y="317" key="#Web_Browsers" timestamp="1603088236644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="317" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1603088236644" />
+    <state x="414" y="174" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603088242990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603088242990" />
+    <state x="579" y="496" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602827523685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="496" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602827523685" />
+    <state width="409" height="466" key="DebuggerActiveHint" timestamp="1603088692520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="409" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1603088692520" />
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.0.center" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.0.left" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.0.right" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.1.bottom" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.1.center" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.1.left" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.1.right" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.2.bottom" timestamp="1603093643508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643508" />
+    <state width="1877" height="373" key="GridCell.Tab.2.center" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.2.left" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state width="1877" height="373" key="GridCell.Tab.2.right" timestamp="1603093643507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603093643507" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603087131475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603087131475" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603095722783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603095722783" />
+    <state x="502" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603091330721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1603091330721" />
+    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1603093538605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603093538605" />
+    <state x="510" y="331" key="run.anything.popup" timestamp="1603092716143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="331" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603092716143" />
+    <state x="517" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1603093515588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603093515588" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/common/view/header.html.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/common/view/header.html.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/common/model.php</url>
+          <line>473</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
